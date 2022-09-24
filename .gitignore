@@ -1,0 +1,8 @@
+__pycache__
+*.swp
+*.swo
+*.egg-info
+fbgemm_gpu_py.so
+data/
+tmp/
+models/
