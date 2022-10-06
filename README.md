@@ -1,6 +1,6 @@
 # DreamShard
 
-This is the implementation for the paper [DreamShard: Generalizable Embedding Table Placement for Recommender Systems](). We propose DreamShard, a reinforcement learning approach for embedding table placement. DreamShard has two novel ideas. 1) It learns a cost network to directly predict the costs of the fused embedding operations. 2) It trains a policy network by interacting with an estimated Markov decision process (MDP) without real GPU execution. Please refer the paper for more deteails.
+This is the implementation for the paper [DreamShard: Generalizable Embedding Table Placement for Recommender Systems](https://arxiv.org/abs/2210.02023). We propose DreamShard, a reinforcement learning approach for embedding table placement. DreamShard has two novel ideas. 1) It learns a cost network to directly predict the costs of the fused embedding operations. 2) It trains a policy network by interacting with an estimated Markov decision process (MDP) without real GPU execution. Please refer the paper for more deteails.
 <img width="800" src="./imgs/overview.png" alt="overview" />
 
 ## Cite this Work
