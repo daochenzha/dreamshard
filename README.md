@@ -3,6 +3,8 @@
 This is the implementation for the paper [DreamShard: Generalizable Embedding Table Placement for Recommender Systems](https://arxiv.org/abs/2210.02023). We propose DreamShard, a reinforcement learning approach for embedding table placement. DreamShard has two novel ideas. 1) It learns a cost network to directly predict the costs of the fused embedding operations. 2) It trains a policy network by interacting with an estimated Markov decision process (MDP) without real GPU execution. Please refer the paper for more deteails.
 <img width="800" src="./imgs/overview.png" alt="overview" />
 
+Miscellaneous Resources: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+
 ## Cite this Work
 If you find this project helpful, please cite
 ```bibtex
